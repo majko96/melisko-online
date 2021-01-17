@@ -1,11 +1,10 @@
-body{
+body {
   background-image: url('../pozadie.jpg');
 }
 
-h2{
+h2 {
   font-family: 'Saira Stencil One', cursive;
 }
-
 
 .scroll-to-top {
   z-index: 1042;
@@ -45,14 +44,17 @@ h2{
   .dropdown-menu.show a {
     font-size: 0.8rem;
   }
-  .navbar-brand{
+
+  .navbar-brand {
     font-size: 1.5rem !important;
   }
-  #navbarNavDropdown{
+
+  #navbarNavDropdown {
     overflow-y: scroll !important;
     max-height: 250px !important;
   }
-  .btn-secondary{
+
+  .btn-secondary {
     min-height: 65px;
     height: auto !important;
   }
@@ -78,10 +80,10 @@ h2{
   .dropdown-menu.show a {
     font-size: 0.9rem;
   }
-  .navbar-brand{
+
+  .navbar-brand {
     font-size: 1.3rem !important;
   }
-
 }
 
 @media (min-width: 370px) and (max-width: 990px) {
@@ -104,21 +106,22 @@ h2{
   .dropdown-menu.show a {
     font-size: 1.1rem;
   }
-  .h{
-    height: 60px;
+
+  .h {
     display: flex;
+    height: 60px;
     justify-content: center;
     align-items: center;
   }
 }
-
 
 @media (min-width: 990px) {
   li.nav-item {
     text-align: center;
     border-bottom: none;
   }
-  .h{
+
+  .h {
     height: 120px;
     display: flex;
     justify-content: center;
@@ -140,108 +143,102 @@ h2{
   z-index: 100;
 }
 
-.btn{
+.btn {
   white-space: normal !important;
-    word-wrap: break-word;
-    word-break: normal;
-    font-weight: 700;
-    color: #212529;
-    text-align: center;
-    vertical-align: middle;
-    cursor: pointer;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    background-color: transparent;
-    border: 1px solid transparent;
-    margin: 0.5rem !important;
-    font-size: 1.4rem;
-    line-height: 1.1;
-    border-radius: 0.25rem !important;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-    width: 100%;
-
+  word-wrap: break-word;
+  word-break: normal;
+  font-weight: 700;
+  color: #212529;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  margin: 0.5rem !important;
+  font-size: 1.4rem;
+  line-height: 1.1;
+  border-radius: 0.25rem !important;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  width: 100%;
 }
 
-.btn-secondary{
+.btn-secondary {
   color: #fff !important;
-    background-color: #009B77;
-    border-color: #fff !important;
-    border-width: 3px !important;
-    height: 65px;
-    overflow: hidden;
+  background-color: #009B77;
+  border-color: #fff !important;
+  border-width: 3px !important;
+  height: 65px;
+  overflow: hidden;
 }
 
-.btn-secondary:hover{
+.btn-secondary:hover {
   color: #fff !important;
-    background-color: #009B77;
-    border-color: #000 !important;
-    border-width: 3px !important;
-    height: 65px;
+  background-color: #009B77;
+  border-color: #000 !important;
+  border-width: 3px !important;
+  height: 65px;
 }
 
-.row{
+.row {
   margin-right: 0 !important;
 }
 
-.mt-15{
+.mt-15 {
   margin-top: 80px;
 }
 
-.mb-15{
+.mb-15 {
   margin-bottom: 130px;
 }
 
 hr {
-    height: 1px;
-    color: #fff;
-    background-color: #fff;
-    border: none;
+  height: 1px;
+  color: #fff;
+  background-color: #fff;
+  border: none;
 }
 
-.progress-bar-striped{
+.progress-bar-striped {
   width: 55%;
 }
 
-.fb-com{
-  background-color:rgba(255,255,255, 0.85);
-   border-style: solid;
-    border-color:#000;
+.fb-com {
+  background-color: rgba(255, 255, 255, 0.85);
+  border-style: solid;
+  border-color: #000;
 }
 
-.nav-item a:hover{
+.nav-item a:hover {
   color: #fff !important;
 }
 
-#navbarNavDropdown .nav-item a:hover{
+#navbarNavDropdown .nav-item a:hover {
   color: #009B77 !important;
-
 }
 
-.navbar{
+.navbar {
   padding: 0rem 0.5rem !important;
 }
+
 ul li {
   height: 64px;
-
 }
 
 ul li a {
   padding-top: 17px !important;
-
-
 }
 
-
-ul li a:hover{
+ul li a:hover {
   background-color: #333;
   height: 100%;
 }
 
 .nav-link {
-  display:inline-block;
-
+  display: inline-block;
 }
 
 .cosi a:after {
@@ -250,7 +247,7 @@ ul li a:hover{
   display: block;
   height: 0.1rem;
   left: 50%;
-position: relative;
+  position: relative;
   background: #009B77;
   transition: width 0.6s ease 0s, left 0.6s ease 0s;
   width: 0;
@@ -263,27 +260,25 @@ position: relative;
 
 .cosi a {
   color: #fff;
-
   text-decoration: none;
   display: inline-block;
   position: relative;
 }
 
-.jumbotron{
+.jumbotron {
   margin-bottom: 0 !important;
 }
 
-
-.bg-dark{
+.bg-dark {
   background-color: #333;
 }
 
 .no-gutters {
-    margin-right: 0;
-    margin-left: 0;
+  margin-right: 0;
+  margin-left: 0;
 }
 
-.custom-btn{
+.custom-btn {
   font-size: 1.2rem;
   font-weight: bold;
   min-height: 50px;
@@ -291,7 +286,7 @@ position: relative;
   border: solid 3px black;
 }
 
-.custom-btn:hover{
+.custom-btn:hover {
   font-weight: bold;
   min-height: 50px;
   min-width: 100px;
@@ -299,52 +294,68 @@ position: relative;
 }
 
 /*marquee */
-.cont{
-    width: 100%;
-    overflow: hidden;
-    background-color: #009B77;
+.cont {
+  width: 100%;
+  overflow: hidden;
+  background-color: #009B77;
 }
 
-.scorri{
-    position: relative;
-    display: flex;
-    width: 100%;
-    justify-content: space-between;
-    height: 64px;
+.scorri {
+  position: relative;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  height: 64px;
 }
 
-.tithome{
-    animation-name: marquee;
-    animation-duration: 15s;
-    animation-iteration-count: infinite;
-    animation-timing-function: linear;
-    flex-shrink: 0;
+.tithome {
+  animation-name: marquee;
+  animation-duration: 15s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  flex-shrink: 0;
 }
 
-.tithome li{
-    width: fit-content;
-    display: inline-block;
-    list-style: none;
-    padding-right: 30px;
-    padding-top: 0.5rem;
-    font-size: 2rem;
+.tithome li {
+  width: fit-content;
+  display: inline-block;
+  list-style: none;
+  padding-right: 30px;
+  padding-top: 0.5rem;
+  font-size: 2rem;
 }
 
 @keyframes marquee {
-    0% { transform: translateX(0); }
-    100% { transform: translateX(-100%); }
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-100%);
+  }
 }
 
-.saira{
+.saira {
   font-family: 'Saira Stencil One', cursive;
 }
-.gold{
+
+.gold {
   color: #EEE8AA;
 }
-.bronze{
-  color: 	#cd7f32;
+
+.bronze {
+  color: #cd7f32;
 }
 
-.silver{
+.silver {
   color: #bec2cb
+}
+
+.icon {
+  margin: 15px;
+  color: #fff;
+}
+
+.icon:hover {
+  color: #fff;
 }

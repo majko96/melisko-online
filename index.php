@@ -347,13 +347,13 @@
 
 
 
-					<div class="col-lg-4 h text-center mt-2">
+					<div class="col-lg-3 h text-center mt-2">
 
 						<div class="fb-share-button" data-href="https://melisko.online/index.html" data-layout="button" data-size="large"><a target="_blank"
 								href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmelisko.online%2Findex.html&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Zdieľať</a></button></div>
 
 					</div>
-					<div class="col-lg-4 h text-center mt-2">
+					<div class="col-lg-3 h text-center mt-2">
 						<img class="" type="button" "https://www.toplist.cz">
 						<script language="JavaScript" type="text/javascript">
 							<!--
@@ -366,7 +366,10 @@
 						</script><noscript><img src="https://toplist.cz/count.asp?id=1795587&logo=mc" border="0" alt="TOPlist" width="88" height="60" /></noscript>
 						</img>
 					</div>
-					<div class="col-lg-4 h text-white text-center mt-2">
+					<div class="col-lg-3 h text-white text-center mt-2">
+						<a href="https://github.com/majko96/melisko-online" target="_blank" class="icon"><i class="fab fa-github-square fa-3x"></i></a>
+					</div>
+					<div class="col-lg-3 h text-white text-center mt-2">
 						Meliškológ<br>&copy;2019 - 2020
 					</div>
 
