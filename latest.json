@@ -1,0 +1,84 @@
+{
+  "tested": 73408,
+  "infected": 182433,
+  "recovered": 101584,
+  "deceased": 1309,
+  "infectedPCR": 139088,
+  "testedPCR": 1246580,
+  "newInfectedPCR": 3565,
+  "newTestedPCR": 16717,
+  "infectedAG": 43345,
+  "testedAG": 999332,
+  "newInfectedAG": 4397,
+  "newTestedAG": 56691,
+  "newRecovered": 1281,
+  "newDeceased": 58,
+  "regionsData": [
+    {
+      "region": "Banskobystrický kraj",
+      "newInfected": "336",
+      "totalInfected": "12 476"
+    },
+    {
+      "region": "Bratislavský kraj",
+      "newInfected": "423",
+      "totalInfected": "14 031"
+    },
+    {
+      "region": "Košický kraj",
+      "newInfected": "319",
+      "totalInfected": "14 840"
+    },
+    {
+      "region": "Nitriansky kraj",
+      "newInfected": "461",
+      "totalInfected": "13 483"
+    },
+    {
+      "region": "Prešovský kraj",
+      "newInfected": "411",
+      "totalInfected": "25 438"
+    },
+    {
+      "region": "Trenčiansky kraj",
+      "newInfected": "595",
+      "totalInfected": "20 179"
+    },
+    {
+      "region": "Trnavský kraj",
+      "newInfected": "492",
+      "totalInfected": "14 246"
+    },
+    {
+      "region": "Žilinský kraj",
+      "newInfected": "528",
+      "totalInfected": "24 395"
+    }
+  ],
+  "districts": [
+    {
+      "town": "Bánovce nad Bebravou",
+      "newInfected": 0,
+      "totalInfected": 1433
+    },
+    {
+      "town": "Banská Bystrica",
+      "newInfected": 0,
+      "totalInfected": 3405
+    },
+    {
+      "town": "Banská Štiavnica",
+      "newInfected": 0,
+      "totalInfected": 258
+    },
+    {
+      "town": "Bardejov",
+      "newInfected": 1,
+      "totalInfected": 3054
+    },
+
+  ],
+  "updated": "16. 12. 2020",
+  "lastUpdatedAtApify": "2020-12-16T17:50:00.000Z",
+  "readMe": "https://apify.com/davidrychly/covid-sk-3"
+}
