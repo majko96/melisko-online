@@ -65,6 +65,7 @@
 					</a>
 					<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 						<a class="dropdown-item" href="https://play.google.com/store/apps/details?id=com.precin.laco&hl=sk">Aplikácia na Android</a>
+						<a class="dropdown-item" href="https://play.google.com/store/apps/details?id=com.precin.test&hl=sk">Hra - Meliško zbiera cibulu</a>
 						<a class="dropdown-item" href="https://www.facebook.com/ladislavmeliskoofficial/">Facebook - Ladislav Meliško</a>
 						<a class="dropdown-item" href="https://www.youtube.com/watch?v=p96Ig2ip2kE">Youtube - najznámejšie dielo</a>
 					</div>
@@ -78,11 +79,11 @@
 			<div class="mt-15">
 				<img class="img-fluid" src="laco1.jpg" alt="Lacko Meliško" />
 			</div>
-			<div class="mt-5">
+			<!-- <div class="mt-5">
 				<a href="https://play.google.com/store/apps/details?id=com.precin.test&fbclid=IwAR1jvw_NDLqQsbsW4erSu5leNgjl6Pso0tgicxy1jHuKoETU-iL6cgELUd8">
 					<img class="img-fluid" src="111.png" alt="Lacko Meliško" />
 				</a>
-			</div>
+			</div> -->
 			<div class="mt-5">
 				<h2 class="text-white" id="hacko2">Maestrove hlášky:</h2>
 			</div>
@@ -370,7 +371,7 @@
 						<a href="https://github.com/majko96/melisko-online" target="_blank" class="icon"><i class="fab fa-github-square fa-3x"></i></a>
 					</div>
 					<div class="col-lg-3 h text-white text-center mt-2">
-						Meliškológ<br>&copy;2019 - 2020
+						Meliškológ<br>&copy;2019 - 2021
 					</div>
 
 				</div>
